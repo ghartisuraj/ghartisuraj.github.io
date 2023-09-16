@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Suraj Gharti: Navigating Data Analytics - My Portfolio"
+title: "Navigating Data Analytics - My Portfolio"
 excerpt: "Summary"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome to my data analyst portfolio!
 
-While working in ecommerce, I stumbled upon the captivating world of data analysis, machine learning, and predictive analytics. It was during a challenging project when I realized the potential of data to transform businesses.
+While working in ecommerce, I stumbled upon the captivating world of data analysis, machine learning, and predictive analytics. It was during solving a business problem when I realized the potential of data to transform businesses.
 
 I made the leap into this exciting field, eager to harness the power of data. Along the way, I honed my skills in data visualization, cleaning messy datasets, conducting statistical analyses, implementing machine learning models, and venturing into cloud computing to scale my data projects.
 
