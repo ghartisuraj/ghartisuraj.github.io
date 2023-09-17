@@ -9,6 +9,8 @@ collection: portfolio
 ## Project Overview
 Explore an in-depth analysis of the expenses incurred by the Winnipeg City Council Office over the past year. This Tableau data visualization project sheds light on the financial transparency of local government operations. By meticulously examining the data, this project aims to provide valuable insights into how public funds are allocated and utilized within the city council.
 
+![Project Image](images/winnipeg_ward_expenses_analysis.png)
+
 ## Key Features
 - Interactive Dashboards: Dive into the data with interactive Tableau dashboards that allow you to filter, drill down, and explore the expenses in various ways.
 - Expense Categories: Gain a clear understanding of how funds are distributed among different expense categories, such as salaries, office supplies, travel expenses, and more.
